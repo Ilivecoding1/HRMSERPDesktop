@@ -1,0 +1,155 @@
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe.config
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe.manifest
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.application
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.pdb
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.AboutErp.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.AdminHome.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Forgot_Password.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Forgot_Username.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Login_Page.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Home.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Properties.Resources.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications1.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications2.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Splash.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Subcompany.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Unlock_Username.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.User_Master.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.UserLogReports.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.UserRoleCenter.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.GenerateResource.Cache
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.TrustInfo.xml
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.exe.manifest
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.application
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.exe
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.pdb
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Company.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Yearclosing.resources
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csprojResolveAssemblyReference.cache
+D:\Office Work\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Year_Closing_Tool.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe.config
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe.manifest
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.application
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.pdb
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csprojResolveAssemblyReference.cache
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.AboutErp.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.AdminHome.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Company.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.NewForm1.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Designation.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Employee_Master.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Forgot_Password.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Forgot_Username.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Login_Page.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Home.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Properties.Resources.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications1.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications2.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Splash.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Subcompany.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Subdepartment.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Unlock_Username.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.User_Master.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.UserLogReports.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.UserRoleCenter.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Year_Closing_Tool.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Yearclosing.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.GenerateResource.Cache
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.TrustInfo.xml
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.exe.manifest
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.application
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.exe
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.pdb
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.EmployeeExports.resources
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.ResolveComReference.cache
+E:\Educational\Project\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.EmployeeImport.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe.config
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.ResolveComReference.cache
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.exe
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.pdb
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe.manifest
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.application
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.pdb
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.AboutErp.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.AdminHome.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Company.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.NewForm1.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Designation.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Employee_Master.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.EmployeeExports.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.EmployeeImport.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Forgot_Password.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Forgot_Username.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Login_Page.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Home.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Properties.Resources.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications1.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications2.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Splash.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Subcompany.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Subdepartment.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Unlock_Username.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.User_Master.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.UserLogReports.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.UserRoleCenter.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Year_Closing_Tool.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Yearclosing.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.GenerateResource.Cache
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.TrustInfo.xml
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.exe.manifest
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.application
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.UserActivityAssign.resources
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.AssemblyReference.cache
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.CoreCompileInputs.cache
+D:\Office Work\DEEPAK\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.CopyComplete
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe.config
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.ResolveComReference.cache
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.exe
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.pdb
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe.manifest
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.application
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.exe
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\bin\Debug\DeepakERPSystem.pdb
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.AboutErp.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.AdminHome.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Company.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.NewForm1.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Designation.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Employee_Master.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.EmployeeExports.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.EmployeeImport.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Forgot_Password.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Forgot_Username.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Login_Page.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Home.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Properties.Resources.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications1.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Show_Notifications2.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Splash.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Subcompany.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Subdepartment.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Unlock_Username.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.User_Master.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.UserActivityAssign.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.UserLogReports.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.UserRoleCenter.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Year_Closing_Tool.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.Yearclosing.resources
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.GenerateResource.Cache
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.TrustInfo.xml
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.exe.manifest
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.application
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.AssemblyReference.cache
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.CoreCompileInputs.cache
+D:\Office Work\DeepakERPSystem\DeepakERPSystem\obj\Debug\DeepakERPSystem.csproj.CopyComplete

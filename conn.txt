@@ -1,0 +1,48 @@
+ try
+            {
+                String serverfile = @"C:\\mmc\\server.txt";
+
+                StreamReader txtfile = new StreamReader(serverfile);
+                string servername = txtfile.ReadLine();
+                string username = txtfile.ReadLine();
+                string password = txtfile.ReadLine();
+
+                var sb = new SqlConnectionStringBuilder();
+                sb.IntegratedSecurity = false;
+                sb.DataSource = servername.ToString().Trim();
+                sb.InitialCatalog = "mmc";
+                sb.UserID = username.ToString().Trim();
+                sb.Password = password.ToString().Trim();
+
+                var sbpayroll = new SqlConnectionStringBuilder();
+                sbpayroll.IntegratedSecurity = false;
+                sbpayroll.DataSource = servername.ToString().Trim();
+                sbpayroll.InitialCatalog = "payroll_" + cboCompany.SelectedIndex + "_" + cboFinYear.SelectedText.Substring(0, 2);
+                sbpayroll.UserID = username.ToString().Trim();
+                sbpayroll.Password = password.ToString().Trim();
+
+                string connectionStringpayroll = sbpayroll.ToString();
+                SqlConnection conn3 = new SqlConnection(connectionStringpayroll);
+
+                string connectionString = sb.ToString();
+                SqlConnection conn2 = new SqlConnection(connectionString);
+                conn2.Open();
+                conn3.Open();
+                if (conn2.State == ConnectionState.Open)
+                {
+                    if (conn3.State == ConnectionState.Open)
+                    {
+                        MessageBox.Show("connection sucessful-connected to the payroll database", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    MessageBox.Show("connection sucessful-connected to the mmc database", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show("connection unsucessful-not connected to the server", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+            catch (Exception ee)
+            {
+                //throw ee;
+                MessageBox.Show("Could not connect to the server due to :" + ee.ToString(), "Information", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+            }
